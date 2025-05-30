@@ -28,6 +28,8 @@ if (Object.keys(emptyObj).length === 0 ) {
 
 // Nullish Coalescing Operator (??): null undefined
 
+// assigns a flag value if we get null or undefined
+
 let val1; 
 // val1 = 5 ?? 10
 // val1 = null ?? 10
